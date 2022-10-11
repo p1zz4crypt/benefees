@@ -1,6 +1,8 @@
 ![BeneFees (1)](https://user-images.githubusercontent.com/80373774/195200116-4e737d56-e5ca-4e53-9278-b5fedf95625c.png)
 
 
+Por: Paola Castrillón y Adriana Rosas
+
 Ayudar a otros es un acto de amor y responsabilidad, diversas organizaciones  están comprometidas a atender problemas sociales donde los servicios estatales no 
 alcanzan a cubrir esas necesidades.
 Con el fin de cumplir el deseo de muchas personas de contribuir a mejorar el mundo y la situación actual, se propone un sistema de votación a través de Blockchain, 
